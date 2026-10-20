@@ -1,0 +1,6 @@
+CD Activeren 1.6 – Van Hunen
+
+Pak de ZIP uit en open index.html in Firefox of Edge.
+De knop HERACTIVEREN opent de officiële Canal Digitaal-pagina in een nieuw tabblad.
+De app verwerkt zelf geen kaartnummers.
+Voor installatie op iPhone als webapp moet deze map via HTTPS worden gepubliceerd.
